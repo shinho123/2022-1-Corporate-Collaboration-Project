@@ -20,7 +20,8 @@
 
 ## EDA
 - EDA는 나이, 성별, 이상치 순으로 나누어 분석함
-![image](https://github.com/shinho123/2022-1-Sanhak-Project/assets/105840783/5a87e24a-5b91-4519-8862-b3993b1cd99e)
+![image](https://github.com/shinho123/2022-1-Sanhak-Project/assets/105840783/794b08a4-f641-4e27-90ab-b9e037ceba55)
+
   - **나이** : 나이별 컨텐츠 분류, 나이별 향상능력 분류
   - **성별** : 성별 나이 분포, 성별 컨텐츠 분류, 성별 향상능력
   - **이상치 확인 및 제거** : 각 컨텐츠 별로 이상치를 확인함(Q1-(1.5*IQR)미만, Q3+(1.5*IQR) 초과인 값을 제거함)

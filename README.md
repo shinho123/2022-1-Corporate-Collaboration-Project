@@ -26,7 +26,9 @@
  
 ## Analysis
 - 나이·성별
-![image](https://github.com/shinho123/2022-1-Sanhak-Project/assets/105840783/3f6c8b7d-a89c-43a3-8a45-6abc4df3119e)
+<img width="612" alt="image" src="https://github.com/shinho123/2022-1-Sanhak-Project/assets/105840783/56295fc1-4a26-4831-a9b2-3791a6084c04">
+
+
   
 
 

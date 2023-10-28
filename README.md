@@ -26,7 +26,7 @@
  
 ## Analysis
 
-나이·성별
+**나이·성별**
 
 <img width="612" alt="image" src="https://github.com/shinho123/2022-1-Sanhak-Project/assets/105840783/56295fc1-4a26-4831-a9b2-3791a6084c04">
 
@@ -35,7 +35,7 @@
   - 유아의 경우 1살 차이도 발달 능력에서 큰 차이를 보임
 - 남자 : 51명, 여자 : 45명으로 남녀의 비율 차이가 없음
 
-컨텐츠 분류
+**컨텐츠 분류**
 
 <img width="248" alt="image" src="https://github.com/shinho123/2022-1-Sanhak-Project/assets/105840783/fee9a7fe-a701-445e-a1c8-7b38b10a8d87">
 
@@ -44,25 +44,25 @@
 - 예체능 계열에서는 미술 영역이 가장 많은 이용량을 보였음
 - 결론적으로 아이 학습에 국어, 영어, 수학에 비중을 많이 두고 교육하는 것을 알 수 있음
 
-전체 향상 능력
+**전체 향상 능력**
 
 - 컨텐츠 분류 1의 경우 한글, 수학, 영어로 구성되어 있으며, 향상 능력은 이해력, 상상력, 표현력, 집중력, 창의력으로 구성되어짐
 - 이해력이 굉장히 많은 부분을 차지함
 - 컨텐츠 분류1별로 향상능력을 살펴본 결과 이용량이 가장 많은 한글, 수학, 영어에 이해력이 많이 분포
   
-나이별 컨텐츠 분류
+**나이별 컨텐츠 분류**
 
 <img width="398" alt="image" src="https://github.com/shinho123/2022-1-Sanhak-Project/assets/105840783/2ae5a067-41e3-4013-a3ea-db8fceff1b62">
 
-나이별 향상 능력 분류
+**나이별 향상 능력 분류**
 
 <img width="395" alt="image" src="https://github.com/shinho123/2022-1-Sanhak-Project/assets/105840783/62cd47c9-dd21-4242-937d-fb87aa3c7d5b">
 
-나이별 문제풀이 평균 소요시간
+**나이별 문제풀이 평균 소요시간**
 
 <img width="602" alt="image" src="https://github.com/shinho123/2022-1-Sanhak-Project/assets/105840783/0511b46b-18af-4ae7-97e7-a5869c31920b">
 
-8세 이상일 경우 문제풀이 소요시간이 전체적으로 짧아
+8세 이상일 경우 문제풀이 소요시간이 전체적으로 짧아짐
 
    
 ## 신규 서비스 시나리오 제안

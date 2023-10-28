@@ -25,7 +25,9 @@
   - **이상치 확인 및 제거** : 각 컨텐츠 별로 이상치를 확인함(Q1-(1.5*IQR)미만, Q3+(1.5*IQR) 초과인 값을 제거함)
  
 ## Analysis
+
 나이·성별
+
 <img width="612" alt="image" src="https://github.com/shinho123/2022-1-Sanhak-Project/assets/105840783/56295fc1-4a26-4831-a9b2-3791a6084c04">
 
 - 105명 → 96명(10세 보다 나이가 많은 유저는 제외시킴)

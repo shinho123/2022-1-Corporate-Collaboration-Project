@@ -2,7 +2,7 @@
 * 2022년도 1학기 산학프로젝트
 * 기업 : (주)플레도(Edutech)
 * 프로젝트 기간 : 2022년 05월 ~ 2022년 08월
-* 수행 업무 : 데이터 전처리, EDA(Data visualization analysis, Data group analysis, Data missing value analysis)
+* 수행 업무 : Data preprocessing, EDA(Data visualization analysis, Data group analysis, Data missing value analysis)
 # 산학 프로젝트 플레도 AI 학습블록
 
 

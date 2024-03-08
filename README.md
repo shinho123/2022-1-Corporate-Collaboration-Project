@@ -75,6 +75,21 @@
 
 * 향상된 역량 측면에서는 남성이 이해력에서 높은 사용량을 나타내며, 여성은 상상력, 표현력, 집중력, 창의력 등의 분야에서 더 뛰어난 역량을 보이고 있음
 
+**성별별 문제풀이 소요시간**
+
+![image](https://github.com/shinho123/2022-1-Corporate-Collaboration-Project/assets/105840783/468b25d3-bbc6-4d95-aeb8-1255e9c5c769)
+
+* 성별 간 문제풀이 소요시간의 큰 차이는 없지만 한글을 제외한 모든 컨텐츠에서 남자아이의 평균 문제풀이 소요시간이 짧게 나타
+
+**컨텐츠에 따른 문제풀이 소요시간**
+
+![image](https://github.com/shinho123/2022-1-Corporate-Collaboration-Project/assets/105840783/bd53c33e-0de8-4002-8036-56bc1c0cf0e4)
+
+* 영어를 풀 때 소요시간이 가장 오래 걸림
+* 음악을 풀 때 소요시간이 가장 적게 걸림
+  * 단, 여기서의 문제 풀이 평균 소요시간을 계산할 때엔 모든 나이의 User를 포함하여 계산(11세 이상도 모두 포함)
+
+
 **이상치 처리(1)**
 
 ![image](https://github.com/shinho123/2022-1-Corporate-Collaboration-Project/assets/105840783/de70b81f-3974-444a-a808-138233bb1f7f)
@@ -93,7 +108,17 @@
 
 * 데이터에서 이상치 구간 제거 진행 → Lower bound < Data < Upper bound
 
+**문제풀이 소요시간(ANOVA 분석)**
 
+![image](https://github.com/shinho123/2022-1-Corporate-Collaboration-Project/assets/105840783/8d4dd7aa-ca76-4520-9a84-2e8485dbf8c1)
+
+* 나이대가 높아질수록 평균문제풀이 시간이 점차 낮아지는 것을 확인할 수 있으며, 나이대에 따라 평균 문제풀이 소요시간이 다르므로 나이대에 알맞는 문제 추천이 필요함
+
+**컨텐츠 선택(독립성 검정)**
+
+![image](https://github.com/shinho123/2022-1-Corporate-Collaboration-Project/assets/105840783/0154f355-68a0-4093-bfd9-1223b1c36925)
+
+* 컨텐츠 중 한글과 수학분야는 성별이나 나이에 상관없이 높은 것을 알 수 있으며, 나이대와 성별에 따라 컨텐츠 선택 수 차이가 있으므로 각 영역에 따라 선호하는 컨텐츠가 있을 것으로 예측됨
 
 
 ## Ⅳ. 신규 서비스 시나리오 제안

@@ -41,7 +41,22 @@
 
 **컨텐츠 분류**
 
-<img width="248" alt="image" src="https://github.com/shinho123/2022-1-Sanhak-Project/assets/105840됨 
+**나이별 컨텐츠 분류**
+
+![image](https://github.com/shinho123/2022-1-Corporate-Collaboration-Project/assets/105840783/852b850b-7360-4530-a653-cd7399ab506d)
+
+* 국어(한글) 컨텐츠를 많이 이용하는 것을 볼 수 있음
+* 5세 이상에서는 수학과 영어 컨텐츠의 비율이 증가함을 볼 수 있음
+
+**나이별 향상능력 분류**
+
+![image](https://github.com/shinho123/2022-1-Corporate-Collaboration-Project/assets/105840783/b92ccb31-1e27-4dd8-884c-d816bf5052ec)
+
+* 나이별 향상능력 분류에서도 앞선 나이별 컨텐츠 분류와 같이 이해력 부분이 가장 많은 부분을 차지하고 있음
+
+* 나이와 상관없이 비슷한 비율을 보임
+
+
 
 ## Ⅳ. 신규 서비스 시나리오 제안
 - 인터페이스 제공

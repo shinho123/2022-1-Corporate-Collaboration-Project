@@ -56,6 +56,44 @@
 
 * 나이와 상관없이 비슷한 비율을 보임
 
+**나이에 따른 문제풀이 소요시간**
+
+![image](https://github.com/shinho123/2022-1-Corporate-Collaboration-Project/assets/105840783/0e2a9d6b-6e39-4f6b-a49e-8283a7f99a73)
+
+* 8세이상부터 전체적으로 문제풀이 소요시간이 단축되고 있음
+
+
+**성별별 컨텐츠 분류**
+
+![image](https://github.com/shinho123/2022-1-Corporate-Collaboration-Project/assets/105840783/2175c2b6-8388-4d02-be21-2c83978f6474)
+
+* 컨텐츠 활용 패턴에서 남성은 주로 한글, 수학, 영어 분야를 선호하는 반면, 여성은 미술, 음악, 요리에 큰 관심을 보이고 있음
+
+**성별별 향상능력 분류**
+
+![image](https://github.com/shinho123/2022-1-Corporate-Collaboration-Project/assets/105840783/6a9afcb5-8196-49cb-9215-a4dc2c6e97a8)
+
+* 향상된 역량 측면에서는 남성이 이해력에서 높은 사용량을 나타내며, 여성은 상상력, 표현력, 집중력, 창의력 등의 분야에서 더 뛰어난 역량을 보이고 있음
+
+**이상치 처리(1)**
+
+![image](https://github.com/shinho123/2022-1-Corporate-Collaboration-Project/assets/105840783/de70b81f-3974-444a-a808-138233bb1f7f)
+
+* 각 컨텐츠 별로 Q1-1.5*IQR 미만, Q3+1.5*IQR 초과인 값을 제거함
+
+**이상치 처리(2)**
+
+![image](https://github.com/shinho123/2022-1-Corporate-Collaboration-Project/assets/105840783/4816b1ab-ee96-4951-b6dd-75d3823cdcff)
+
+* "문제풀이 소요시간" 분석을 위한 이상치(Outlier)처리를 실시
+
+* 가장 자주 사용되는 IQR 기반의 이상치 탐지 및 처리 방법을 선택
+
+* 히스토그램을 통해 이상치 구간을 추정 및 계산
+
+* 데이터에서 이상치 구간 제거 진행 → Lower bound < Data < Upper bound
+
+
 
 
 ## Ⅳ. 신규 서비스 시나리오 제안
